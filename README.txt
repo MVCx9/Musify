@@ -5,10 +5,10 @@
 2. Iniciar el servidor de bbdd: 
     mongod
 3. Iniciar la aplicación siguiendo el index.js: 
-    cd /Users/Miguel/Desktop/Desarrollo/Musify/API
+    cd /Users/Miguel/Desktop/Valadev/Musify/API
     npm start
 4. Iniciar aplicación frontal:
-    cd /Users/Miguel/Desktop/Desarrollo/Musify/CLIENT/frontal-Musify
+    cd /Users/Miguel/Desktop/Valadev/Musify/CLIENT/frontal-Musify
     ng serve
 
 *************************** PASOS PARA PARAR LA APLICACIÓN ***************************
@@ -27,7 +27,7 @@ Justo encima de la llamada a mongoose.connect
     mongoose.Promise = global.Promise;
 
 Para desistalar o instalar dependencias: 
-    cd /Users/Miguel/Desktop/Desarrollo/Musify
+    cd /Users/Miguel/Desktop/Valadev/Musify
     npm uninstall xxxxxxxx
     npm install xxxxxxxx
 
