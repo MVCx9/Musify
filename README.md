@@ -7,7 +7,7 @@
 Este proyecto es una aplicación reproductora de música que permite almacenar información sobre cantantes, álbumes y canciones de dichos álbumes. La aplicación consta de un servicio de API REST implementado en Node.js con autenticación mediante JWT (JSON Web Tokens), y una interfaz de usuario construida con Angular.
 
 <p align="center">
-    <img width=500 src="/Users/Miguel/Desktop/Valadev/Musify/utils/musify_logo.jpeg">
+    <img width=500 src="utils/musify_logo.jpeg">
 </>
 
 ## Características principales
